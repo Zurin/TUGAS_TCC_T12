@@ -32,6 +32,7 @@ cd direktori_kerja/
 ```
 7. Jika sudah masuk direktori kerja tersebut, silakan jalankan perintah:
 ```
+docker-compose build
 docker-compose up -d
 ```
 8. Jika perintah di atas sudah berhasil dan tidak ada notifikasi error, maka hasilnya ketika dijalankan di browser adalah sebagai berikut:
